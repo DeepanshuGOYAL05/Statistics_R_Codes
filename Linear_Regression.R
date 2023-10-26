@@ -1,4 +1,5 @@
 # Import the necessary libraries
+
 import numpy as np
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
@@ -20,6 +21,7 @@ y_pred = model.predict(X_new)
 
 # Print the coefficients (slope and intercept)
 print("Slope (Coefficient):", model.coef_[0][0])
+print("Code by deepanshu")
 print("Intercept:", model.intercept_[0])
 
 # Plot the data and regression line
