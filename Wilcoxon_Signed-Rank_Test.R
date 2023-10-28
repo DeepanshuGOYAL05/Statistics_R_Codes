@@ -10,4 +10,5 @@ if p_value < alpha:
 	print(f'Since p_value < {alpha}, reject null hypothesis. Therefore, Two data distributions are probably not equal.')
 else:
 	print(f'Since p_value > {alpha}, the null hypothesis cannot be rejected. Therefore, Two data distributions are probably equal')
-Wilcoxon Signed-Rank Test
+
+#Code by deepanshu
