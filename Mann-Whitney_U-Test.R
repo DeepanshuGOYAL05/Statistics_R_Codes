@@ -41,3 +41,5 @@ res <- wilcox.test(BULB_PRICE~ BULB_TYPE,
 				data = DATASET,
 				exact = FALSE)
 res
+
+#Code by deepanshu
