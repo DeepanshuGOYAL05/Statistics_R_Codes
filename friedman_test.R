@@ -11,3 +11,4 @@ if p_value < alpha:
 else:
 	print(f'Since p_value > {alpha}, the null hypothesis cannot be rejected. Therefore, data distributions are probably equal.')
      
+#Code by deepanshu
